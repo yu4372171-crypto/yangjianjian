@@ -1,0 +1,27 @@
+/* Common breathing room; skin colors and navigation arrangements remain distinct. */
+html[data-ui-skin] {
+  --ui-page-y: 28px;
+  --ui-page-x: clamp(20px, 2.6vw, 40px);
+  --ui-panel-pad: 24px;
+  --ui-nav-h: 44px;
+}
+html[data-ui-skin] .page { gap: 24px; }
+html[data-ui-skin] .page-header { margin-bottom: 22px; row-gap: 12px; }
+html[data-ui-skin] .page-header p { line-height: 1.8; max-width: 78ch; }
+html[data-ui-skin] .panel { min-width: 0; }
+html[data-ui-skin] .app-sidebar nav { gap: 6px; }
+html[data-ui-skin] .field { gap: 8px; }
+html[data-ui-skin] .toolbar { gap: 12px; flex-wrap: wrap; }
+html[data-ui-skin] :is(.settings-layout,.output-template-workspace,.dashboard-grid) { gap: 24px; }
+html[data-ui-skin] :is(.settings-form,.settings-fields) { row-gap: 20px; }
+html[data-ui-skin] :is(th,td) { padding-top: 14px; padding-bottom: 14px; }
+html[data-ui-skin] .field-help { line-height: 1.75; }
+html[data-ui-skin] :is(.smart-inputs,.language-library,.requirement-chat-plan) { min-width: 0; }
+html[data-ui-skin] .smart-body { gap: 24px; }
+html[data-ui-skin] .smart-advanced:not([open]) { padding-block: 16px; }
+html[data-ui-skin] .smart-help { line-height: 1.8; }
+html[data-ui-skin] :is(.smart-inputs,.language-library) button { min-height: 36px; }
+@media(max-width:800px) {
+  html[data-ui-skin] { --ui-page-y:20px; --ui-page-x:16px; --ui-panel-pad:18px; }
+  html[data-ui-skin] .page-header { gap:12px; flex-wrap:wrap; }
+}

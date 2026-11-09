@@ -1,0 +1,47 @@
+<Window x:Class="Aive.UI2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:webview="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        xmlns:shell="clr-namespace:System.Windows.Shell;assembly=PresentationFramework"
+        Title="羊剪剪"
+        Width="1500"
+        Height="920"
+        MinWidth="1040"
+        MinHeight="680"
+        WindowStyle="None"
+        Background="#F5F7FA"
+        Loaded="OnLoaded"
+        Closing="OnClosing">
+    <shell:WindowChrome.WindowChrome>
+        <shell:WindowChrome CaptionHeight="0"
+                            ResizeBorderThickness="6"
+                            GlassFrameThickness="0"
+                            CornerRadius="0"
+                            UseAeroCaptionButtons="False" />
+    </shell:WindowChrome.WindowChrome>
+
+    <Grid>
+        <webview:WebView2 x:Name="Web" Margin="1" />
+        <Border x:Name="StartupPanel"
+                Background="#F5F7FA"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Padding="28,20"
+                CornerRadius="12">
+            <StackPanel>
+                <TextBlock Text="羊剪剪"
+                           Foreground="#101828"
+                           FontSize="28"
+                           FontWeight="SemiBold"
+                           HorizontalAlignment="Center" />
+                <TextBlock x:Name="StartupLabel"
+                           Margin="0,10,0,0"
+                           Text="正在启动剪辑工作台…"
+                           Foreground="#536079"
+                           FontSize="16"
+                           TextWrapping="Wrap"
+                           TextAlignment="Center" />
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

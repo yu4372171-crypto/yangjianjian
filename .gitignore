@@ -1,0 +1,88 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+account_config.ini
+settings.json
+online.json
+
+# Customer and runtime data
+.aive/
+projects/
+output/
+outputs/
+logs/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+
+# AI models and media downloads
+models/
+model-cache/
+huggingface/
+webview2/
+*.gguf
+*.safetensors
+*.onnx
+*.bin
+*.pt
+*.pth
+*.wav.before-*
+
+# Binaries and release artifacts
+artifacts/
+dist/
+release/
+发行包/
+_internal/
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.msi
+*.msix
+*.msixbundle
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# .NET
+bin/
+obj/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Test and automation output
+playwright-artifacts-*/
+test-results/
+coverage/
+.test-data/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+*.suo
+*.user
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store

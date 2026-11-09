@@ -1,0 +1,1 @@
+import{u,I as s,J as f,K as i,O as c}from"./index-CVDv6sjN.js";function p(t,o){const a=u(),n=crypto.randomUUID();let e;async function r(){return t.value?await a.confirm("有未保存的修改","离开会放弃当前修改，是否继续？","放弃修改")?(o(),!0):!1:!0}s(()=>{e=a.guardLeave(n,r)}),f(()=>e?.()),i(()=>e?.()),c(r)}export{p as u};

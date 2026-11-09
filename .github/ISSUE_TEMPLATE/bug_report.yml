@@ -1,0 +1,41 @@
+name: Bug report
+description: Report a reproducible problem without private material
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not attach customer videos, account details, API keys, project databases,
+        private logs or update signing files. Use synthetic media when possible.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      description: Include the page, action and inputs that trigger the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: YangJianJian version
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Windows version, GPU, FFmpeg version and whether the issue uses a local or remote model.

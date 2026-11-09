@@ -1,0 +1,6 @@
+# Optional local inference and speech dependencies. These are intentionally
+# separate because they are large and license/model specific.
+faster-whisper>=1.2,<2
+llama-cpp-python>=0.3,<0.4
+numpy>=2,<3
+Pillow>=11,<13

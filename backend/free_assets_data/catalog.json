@@ -1,0 +1,3059 @@
+{
+  "version": 1,
+  "updated": "2026-10-19",
+  "items": [
+    {
+      "id": "sticker-fire",
+      "name": "热力火焰",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Fire/3D/fire_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Fire/3D/fire_3d.png",
+      "filename": "fire_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Fire/3D/fire_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Fire/3D/fire_3d.png"
+      ],
+      "tags": [
+        "热力火焰",
+        "Fire",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 26826,
+      "sha256": "d56355132d73df1741edcf37cb4e21ad54f1c46eeb76fa17224607abf4128c3f",
+      "preview": "free-assets/previews/sticker-fire.png"
+    },
+    {
+      "id": "sticker-sparkles",
+      "name": "闪亮星光",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Sparkles/3D/sparkles_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Sparkles/3D/sparkles_3d.png",
+      "filename": "sparkles_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Sparkles/3D/sparkles_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Sparkles/3D/sparkles_3d.png"
+      ],
+      "tags": [
+        "闪亮星光",
+        "Sparkles",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 21948,
+      "sha256": "e4490c9ff74a3fd73a8f99c760d65b6ed51b8a3e4ad28da137fec050b77e1058",
+      "preview": "free-assets/previews/sticker-sparkles.png"
+    },
+    {
+      "id": "sticker-party-popper",
+      "name": "派对礼花",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Party%20popper/3D/party_popper_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Party popper/3D/party_popper_3d.png",
+      "filename": "party_popper_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Party%20popper/3D/party_popper_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Party%20popper/3D/party_popper_3d.png"
+      ],
+      "tags": [
+        "派对礼花",
+        "Party popper",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 42512,
+      "sha256": "70a8e2f9daf1646be9e773751b7f3b6b281a2415cf29c3c3aeebd9c923cdc3e0",
+      "preview": "free-assets/previews/sticker-party-popper.png"
+    },
+    {
+      "id": "sticker-confetti-ball",
+      "name": "彩纸庆祝",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Confetti%20ball/3D/confetti_ball_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Confetti ball/3D/confetti_ball_3d.png",
+      "filename": "confetti_ball_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Confetti%20ball/3D/confetti_ball_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Confetti%20ball/3D/confetti_ball_3d.png"
+      ],
+      "tags": [
+        "彩纸庆祝",
+        "Confetti ball",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 40564,
+      "sha256": "92dc91f0566a3e103c71bf8e96ef693aa7509cf810b239203ae2d8b66a11bf0b",
+      "preview": "free-assets/previews/sticker-confetti-ball.png"
+    },
+    {
+      "id": "sticker-red-heart",
+      "name": "爱心",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Red%20heart/3D/red_heart_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Red heart/3D/red_heart_3d.png",
+      "filename": "red_heart_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Red%20heart/3D/red_heart_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Red%20heart/3D/red_heart_3d.png"
+      ],
+      "tags": [
+        "爱心",
+        "Red heart",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 29389,
+      "sha256": "7218cb9f08ed1ef38fcd83fe699a1125d07f50725f4c87a68cb7c9f4efb3c32b",
+      "preview": "free-assets/previews/sticker-red-heart.png"
+    },
+    {
+      "id": "sticker-star",
+      "name": "星星",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Star/3D/star_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Star/3D/star_3d.png",
+      "filename": "star_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Star/3D/star_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Star/3D/star_3d.png"
+      ],
+      "tags": [
+        "星星",
+        "Star",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 24449,
+      "sha256": "b935cdf502b69054bc2b08e7ba4e4eaba6499564a2041dd77d6291e21bf8cfe8",
+      "preview": "free-assets/previews/sticker-star.png"
+    },
+    {
+      "id": "sticker-glowing-star",
+      "name": "发光星星",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Glowing%20star/3D/glowing_star_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Glowing star/3D/glowing_star_3d.png",
+      "filename": "glowing_star_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Glowing%20star/3D/glowing_star_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Glowing%20star/3D/glowing_star_3d.png"
+      ],
+      "tags": [
+        "发光星星",
+        "Glowing star",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 28165,
+      "sha256": "a8041e122bfebbc72ff85c294568561ae77dc97ae322f747292c082901a3bef7",
+      "preview": "free-assets/previews/sticker-glowing-star.png"
+    },
+    {
+      "id": "sticker-rocket",
+      "name": "火箭",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Rocket/3D/rocket_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Rocket/3D/rocket_3d.png",
+      "filename": "rocket_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Rocket/3D/rocket_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Rocket/3D/rocket_3d.png"
+      ],
+      "tags": [
+        "火箭",
+        "Rocket",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 36274,
+      "sha256": "4636925a1dfc76a45dc83c08b983699d39143a0978f794a4e2dfb6cbffdcd7ab",
+      "preview": "free-assets/previews/sticker-rocket.png"
+    },
+    {
+      "id": "sticker-light-bulb",
+      "name": "灵感灯泡",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Light%20bulb/3D/light_bulb_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Light bulb/3D/light_bulb_3d.png",
+      "filename": "light_bulb_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Light%20bulb/3D/light_bulb_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Light%20bulb/3D/light_bulb_3d.png"
+      ],
+      "tags": [
+        "灵感灯泡",
+        "Light bulb",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 22450,
+      "sha256": "df7b09aa18301507e6fb8c279df66d9afa465b6fed3e63d2efa84dacebdbbf79",
+      "preview": "free-assets/previews/sticker-light-bulb.png"
+    },
+    {
+      "id": "sticker-trophy",
+      "name": "冠军奖杯",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Trophy/3D/trophy_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Trophy/3D/trophy_3d.png",
+      "filename": "trophy_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Trophy/3D/trophy_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Trophy/3D/trophy_3d.png"
+      ],
+      "tags": [
+        "冠军奖杯",
+        "Trophy",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 31910,
+      "sha256": "7c4a9805f354eb2aec35063a95a4043306efc726324c0d128883f24497857bbc",
+      "preview": "free-assets/previews/sticker-trophy.png"
+    },
+    {
+      "id": "sticker-1st-place-medal",
+      "name": "第一名奖牌",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/1st%20place%20medal/3D/1st_place_medal_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/1st place medal/3D/1st_place_medal_3d.png",
+      "filename": "1st_place_medal_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/1st%20place%20medal/3D/1st_place_medal_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/1st%20place%20medal/3D/1st_place_medal_3d.png"
+      ],
+      "tags": [
+        "第一名奖牌",
+        "1st place medal",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 30635,
+      "sha256": "3f4dc5626b0e9f62585d317572e9c11d8ec64856c3e82f03c16c40be3a31dae5",
+      "preview": "free-assets/previews/sticker-1st-place-medal.png"
+    },
+    {
+      "id": "sticker-wrapped-gift",
+      "name": "惊喜礼物",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Wrapped%20gift/3D/wrapped_gift_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Wrapped gift/3D/wrapped_gift_3d.png",
+      "filename": "wrapped_gift_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Wrapped%20gift/3D/wrapped_gift_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Wrapped%20gift/3D/wrapped_gift_3d.png"
+      ],
+      "tags": [
+        "惊喜礼物",
+        "Wrapped gift",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 31757,
+      "sha256": "fc9c446401c9fb347f4e9f47e6023247208126047d9ec32059d5e14e127fb562",
+      "preview": "free-assets/previews/sticker-wrapped-gift.png"
+    },
+    {
+      "id": "sticker-money-bag",
+      "name": "金币钱袋",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Money%20bag/3D/money_bag_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Money bag/3D/money_bag_3d.png",
+      "filename": "money_bag_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Money%20bag/3D/money_bag_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Money%20bag/3D/money_bag_3d.png"
+      ],
+      "tags": [
+        "金币钱袋",
+        "Money bag",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 34132,
+      "sha256": "cec19b9cf0beac5bbd27a07dcbe1e68c54b04112b4641165705ccb920f230292",
+      "preview": "free-assets/previews/sticker-money-bag.png"
+    },
+    {
+      "id": "sticker-gem-stone",
+      "name": "宝石",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Gem%20stone/3D/gem_stone_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Gem stone/3D/gem_stone_3d.png",
+      "filename": "gem_stone_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Gem%20stone/3D/gem_stone_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Gem%20stone/3D/gem_stone_3d.png"
+      ],
+      "tags": [
+        "宝石",
+        "Gem stone",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 18806,
+      "sha256": "50dd4109b524203fc9e208e24498f6f468c54f104b4eb41e914dec203e841820",
+      "preview": "free-assets/previews/sticker-gem-stone.png"
+    },
+    {
+      "id": "sticker-crown",
+      "name": "皇冠",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Crown/3D/crown_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Crown/3D/crown_3d.png",
+      "filename": "crown_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Crown/3D/crown_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Crown/3D/crown_3d.png"
+      ],
+      "tags": [
+        "皇冠",
+        "Crown",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 32050,
+      "sha256": "817095bb1423468afa155317ba04ca333957d51757a8d3326856ee8707c0edd6",
+      "preview": "free-assets/previews/sticker-crown.png"
+    },
+    {
+      "id": "sticker-camera-with-flash",
+      "name": "闪光相机",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Camera%20with%20flash/3D/camera_with_flash_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Camera with flash/3D/camera_with_flash_3d.png",
+      "filename": "camera_with_flash_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Camera%20with%20flash/3D/camera_with_flash_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Camera%20with%20flash/3D/camera_with_flash_3d.png"
+      ],
+      "tags": [
+        "闪光相机",
+        "Camera with flash",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 40783,
+      "sha256": "fabe124e007add8f59f1312760b0f634deafe039e81a640f91e9dba3582d7a80",
+      "preview": "free-assets/previews/sticker-camera-with-flash.png"
+    },
+    {
+      "id": "sticker-movie-camera",
+      "name": "电影摄影机",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Movie%20camera/3D/movie_camera_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Movie camera/3D/movie_camera_3d.png",
+      "filename": "movie_camera_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Movie%20camera/3D/movie_camera_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Movie%20camera/3D/movie_camera_3d.png"
+      ],
+      "tags": [
+        "电影摄影机",
+        "Movie camera",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 34661,
+      "sha256": "1a62dfdbca5a6a9e90aeacd9a0b3781ff588f4cb96025155fb55829f4020dd0c",
+      "preview": "free-assets/previews/sticker-movie-camera.png"
+    },
+    {
+      "id": "sticker-clapper-board",
+      "name": "电影场记板",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Clapper%20board/3D/clapper_board_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Clapper board/3D/clapper_board_3d.png",
+      "filename": "clapper_board_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Clapper%20board/3D/clapper_board_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Clapper%20board/3D/clapper_board_3d.png"
+      ],
+      "tags": [
+        "电影场记板",
+        "Clapper board",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 29193,
+      "sha256": "1a6e2d6681865c8834b29576398f82045b170177e4e745d7bce210e80cc98561",
+      "preview": "free-assets/previews/sticker-clapper-board.png"
+    },
+    {
+      "id": "sticker-musical-notes",
+      "name": "音乐音符",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Musical%20notes/3D/musical_notes_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Musical notes/3D/musical_notes_3d.png",
+      "filename": "musical_notes_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Musical%20notes/3D/musical_notes_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Musical%20notes/3D/musical_notes_3d.png"
+      ],
+      "tags": [
+        "音乐音符",
+        "Musical notes",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 29610,
+      "sha256": "72bd5c2870b7bcad31bb591a789107c92825b7dd844006366e6fc4e1fa31ab36",
+      "preview": "free-assets/previews/sticker-musical-notes.png"
+    },
+    {
+      "id": "sticker-loudspeaker",
+      "name": "扩音喇叭",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Loudspeaker/3D/loudspeaker_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Loudspeaker/3D/loudspeaker_3d.png",
+      "filename": "loudspeaker_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Loudspeaker/3D/loudspeaker_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Loudspeaker/3D/loudspeaker_3d.png"
+      ],
+      "tags": [
+        "扩音喇叭",
+        "Loudspeaker",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 26298,
+      "sha256": "e09f1d2d3327377cff3da41d6e324e17c7a0baf35caacfc99d76de90acd87db1",
+      "preview": "free-assets/previews/sticker-loudspeaker.png"
+    },
+    {
+      "id": "sticker-hundred-points",
+      "name": "满分一百分",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Hundred%20points/3D/hundred_points_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Hundred points/3D/hundred_points_3d.png",
+      "filename": "hundred_points_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Hundred%20points/3D/hundred_points_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Hundred%20points/3D/hundred_points_3d.png"
+      ],
+      "tags": [
+        "满分一百分",
+        "Hundred points",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 35871,
+      "sha256": "2c9411a425e60a538a7ee5125d21c9fa2610e827f8d38d0c953e5d8cda8562cf",
+      "preview": "free-assets/previews/sticker-hundred-points.png"
+    },
+    {
+      "id": "sticker-check-mark-button",
+      "name": "绿色对勾",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Check%20mark%20button/3D/check_mark_button_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Check mark button/3D/check_mark_button_3d.png",
+      "filename": "check_mark_button_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Check%20mark%20button/3D/check_mark_button_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Check%20mark%20button/3D/check_mark_button_3d.png"
+      ],
+      "tags": [
+        "绿色对勾",
+        "Check mark button",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 34052,
+      "sha256": "256e3dd950cf1705ab72511ab242472b4bd7db519aa402a6182c1aaf8c58def9",
+      "preview": "free-assets/previews/sticker-check-mark-button.png"
+    },
+    {
+      "id": "sticker-cross-mark",
+      "name": "红色叉号",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Cross%20mark/3D/cross_mark_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Cross mark/3D/cross_mark_3d.png",
+      "filename": "cross_mark_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Cross%20mark/3D/cross_mark_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Cross%20mark/3D/cross_mark_3d.png"
+      ],
+      "tags": [
+        "红色叉号",
+        "Cross mark",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 23713,
+      "sha256": "2753b89dcd790c7f25fa3c5fd5641821860257364163abd87a2f57bb268466b9",
+      "preview": "free-assets/previews/sticker-cross-mark.png"
+    },
+    {
+      "id": "sticker-warning",
+      "name": "注意提示",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Warning/3D/warning_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Warning/3D/warning_3d.png",
+      "filename": "warning_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Warning/3D/warning_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Warning/3D/warning_3d.png"
+      ],
+      "tags": [
+        "注意提示",
+        "Warning",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 22076,
+      "sha256": "318f534c5d93100443f6e48defc47d76140473d797087af5821587f0feb8003c",
+      "preview": "free-assets/previews/sticker-warning.png"
+    },
+    {
+      "id": "sticker-grinning-face",
+      "name": "开心笑脸",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Grinning%20face/3D/grinning_face_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Grinning face/3D/grinning_face_3d.png",
+      "filename": "grinning_face_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Grinning%20face/3D/grinning_face_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Grinning%20face/3D/grinning_face_3d.png"
+      ],
+      "tags": [
+        "开心笑脸",
+        "Grinning face",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 38711,
+      "sha256": "175d214df45fe18f6f106a9a094b695689d98abe6f343295fcbd690a7ee4f0ab",
+      "preview": "free-assets/previews/sticker-grinning-face.png"
+    },
+    {
+      "id": "sticker-face-with-tears-of-joy",
+      "name": "笑出眼泪",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Face%20with%20tears%20of%20joy/3D/face_with_tears_of_joy_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Face with tears of joy/3D/face_with_tears_of_joy_3d.png",
+      "filename": "face_with_tears_of_joy_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Face%20with%20tears%20of%20joy/3D/face_with_tears_of_joy_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Face%20with%20tears%20of%20joy/3D/face_with_tears_of_joy_3d.png"
+      ],
+      "tags": [
+        "笑出眼泪",
+        "Face with tears of joy",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 44153,
+      "sha256": "8af20fb0c64c44a8d8c8d047c1410c5e529a37c3158d496832b380198ed2e9c3",
+      "preview": "free-assets/previews/sticker-face-with-tears-of-joy.png"
+    },
+    {
+      "id": "sticker-smiling-face-with-heart-eyes",
+      "name": "心动眼神",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Smiling%20face%20with%20heart-eyes/3D/smiling_face_with_heart-eyes_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Smiling face with heart-eyes/3D/smiling_face_with_heart-eyes_3d.png",
+      "filename": "smiling_face_with_heart-eyes_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Smiling%20face%20with%20heart-eyes/3D/smiling_face_with_heart-eyes_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Smiling%20face%20with%20heart-eyes/3D/smiling_face_with_heart-eyes_3d.png"
+      ],
+      "tags": [
+        "心动眼神",
+        "Smiling face with heart-eyes",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 43664,
+      "sha256": "2b5ab00dd73673faa86463eac8787b7fc366935c4d82a54451df33443190b9cc",
+      "preview": "free-assets/previews/sticker-smiling-face-with-heart-eyes.png"
+    },
+    {
+      "id": "sticker-thinking-face",
+      "name": "思考表情",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Thinking%20face/3D/thinking_face_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Thinking face/3D/thinking_face_3d.png",
+      "filename": "thinking_face_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Thinking%20face/3D/thinking_face_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Thinking%20face/3D/thinking_face_3d.png"
+      ],
+      "tags": [
+        "思考表情",
+        "Thinking face",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 45573,
+      "sha256": "cd29da5c3886e1e25726d3cf6ff79faa2f0d631b1c0873b115be287d358fc4be",
+      "preview": "free-assets/previews/sticker-thinking-face.png"
+    },
+    {
+      "id": "sticker-face-screaming-in-fear",
+      "name": "惊讶表情",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Face%20screaming%20in%20fear/3D/face_screaming_in_fear_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Face screaming in fear/3D/face_screaming_in_fear_3d.png",
+      "filename": "face_screaming_in_fear_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Face%20screaming%20in%20fear/3D/face_screaming_in_fear_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Face%20screaming%20in%20fear/3D/face_screaming_in_fear_3d.png"
+      ],
+      "tags": [
+        "惊讶表情",
+        "Face screaming in fear",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 45002,
+      "sha256": "fe82efcca47346ff85d85b6e947f9c70dcb9e8ba463b1900053b23f1faf37789",
+      "preview": "free-assets/previews/sticker-face-screaming-in-fear.png"
+    },
+    {
+      "id": "sticker-partying-face",
+      "name": "派对表情",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Partying%20face/3D/partying_face_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Partying face/3D/partying_face_3d.png",
+      "filename": "partying_face_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Partying%20face/3D/partying_face_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Partying%20face/3D/partying_face_3d.png"
+      ],
+      "tags": [
+        "派对表情",
+        "Partying face",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 50583,
+      "sha256": "e01bd94de6b85468f6e59da55d380985c363f6bc300b412d18290f143f7e44a9",
+      "preview": "free-assets/previews/sticker-partying-face.png"
+    },
+    {
+      "id": "sticker-smiling-face-with-sunglasses",
+      "name": "酷酷墨镜",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Smiling%20face%20with%20sunglasses/3D/smiling_face_with_sunglasses_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Smiling face with sunglasses/3D/smiling_face_with_sunglasses_3d.png",
+      "filename": "smiling_face_with_sunglasses_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Smiling%20face%20with%20sunglasses/3D/smiling_face_with_sunglasses_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Smiling%20face%20with%20sunglasses/3D/smiling_face_with_sunglasses_3d.png"
+      ],
+      "tags": [
+        "酷酷墨镜",
+        "Smiling face with sunglasses",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 47859,
+      "sha256": "e98cb43a7a531289c82eb57441eb20cd88cb53b895c212d8e3abf05dd2647da1",
+      "preview": "free-assets/previews/sticker-smiling-face-with-sunglasses.png"
+    },
+    {
+      "id": "sticker-star-struck",
+      "name": "崇拜星星眼",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Star-struck/3D/star-struck_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Star-struck/3D/star-struck_3d.png",
+      "filename": "star-struck_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Star-struck/3D/star-struck_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Star-struck/3D/star-struck_3d.png"
+      ],
+      "tags": [
+        "崇拜星星眼",
+        "Star-struck",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 45284,
+      "sha256": "89a14e242892cbe067095b75eb51cd55692841bceb384a45a90f8f3f8b9b2e9b",
+      "preview": "free-assets/previews/sticker-star-struck.png"
+    },
+    {
+      "id": "sticker-eyes",
+      "name": "围观眼睛",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Eyes/3D/eyes_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Eyes/3D/eyes_3d.png",
+      "filename": "eyes_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Eyes/3D/eyes_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Eyes/3D/eyes_3d.png"
+      ],
+      "tags": [
+        "围观眼睛",
+        "Eyes",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 38982,
+      "sha256": "b3049f399cb0947b423610f5876077efa86bc640fba5cb9d138b149773d4c793",
+      "preview": "free-assets/previews/sticker-eyes.png"
+    },
+    {
+      "id": "sticker-collision",
+      "name": "爆炸强调",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Collision/3D/collision_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Collision/3D/collision_3d.png",
+      "filename": "collision_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Collision/3D/collision_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Collision/3D/collision_3d.png"
+      ],
+      "tags": [
+        "爆炸强调",
+        "Collision",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 30796,
+      "sha256": "124ac1fc19f11512b0370197e6ddbd7b035f193df52c75e569f8e9059b7ccc13",
+      "preview": "free-assets/previews/sticker-collision.png"
+    },
+    {
+      "id": "sticker-rainbow",
+      "name": "彩虹",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Rainbow/3D/rainbow_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Rainbow/3D/rainbow_3d.png",
+      "filename": "rainbow_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Rainbow/3D/rainbow_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Rainbow/3D/rainbow_3d.png"
+      ],
+      "tags": [
+        "彩虹",
+        "Rainbow",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 34967,
+      "sha256": "81c60a96369047dd287b9fb54d02d29fe1e9b7fe3f00924330037e861b1fbd81",
+      "preview": "free-assets/previews/sticker-rainbow.png"
+    },
+    {
+      "id": "sticker-sun",
+      "name": "明亮太阳",
+      "category": "sticker",
+      "kind": "image",
+      "author": "Microsoft",
+      "license": "MIT",
+      "licenseFile": "fluent-MIT.txt",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Sun/3D/sun_3d.png",
+      "repository": "https://github.com/microsoft/fluentui-emoji",
+      "commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+      "sourcePath": "assets/Sun/3D/sun_3d.png",
+      "filename": "sun_3d.png",
+      "urls": [
+        "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Sun/3D/sun_3d.png",
+        "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Sun/3D/sun_3d.png"
+      ],
+      "tags": [
+        "明亮太阳",
+        "Sun",
+        "3D",
+        "表情",
+        "贴纸"
+      ],
+      "description": "透明背景的 3D 贴纸，可调整出现时间、大小和位置。",
+      "defaults": {
+        "opacity": 1,
+        "scale": 0.28,
+        "position": "top-right"
+      },
+      "size": 34812,
+      "sha256": "c9bb15d03d4b1e6151d97e12119ac93bbd2bcb5e713a49c1fcfc11ece54caec1",
+      "preview": "free-assets/previews/sticker-sun.png"
+    },
+    {
+      "id": "particle-circle-1",
+      "name": "光环 01",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_01.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/circle_01.png",
+      "filename": "circle_01.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_01.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_01.png"
+      ],
+      "tags": [
+        "光环",
+        "circle",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 69755,
+      "sha256": "4b2d03683bf0fe4a946567adc3bd86b8ba045da84cee58dc2cf8aef63bbfaa06",
+      "preview": "free-assets/previews/particle-circle-1.png"
+    },
+    {
+      "id": "particle-circle-2",
+      "name": "光环 02",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_02.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/circle_02.png",
+      "filename": "circle_02.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_02.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_02.png"
+      ],
+      "tags": [
+        "光环",
+        "circle",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 43380,
+      "sha256": "8a2112a6a5610c7cdcbfe8af0a5162b42dfb3431c63f494743945337b7981e51",
+      "preview": "free-assets/previews/particle-circle-2.png"
+    },
+    {
+      "id": "particle-circle-3",
+      "name": "光环 03",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_03.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/circle_03.png",
+      "filename": "circle_03.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_03.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_03.png"
+      ],
+      "tags": [
+        "光环",
+        "circle",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 72952,
+      "sha256": "ed6c6f082e666c16bcaca89f15aefb55df9bf69450090518bcae1d3d61f82936",
+      "preview": "free-assets/previews/particle-circle-3.png"
+    },
+    {
+      "id": "particle-circle-4",
+      "name": "光环 04",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_04.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/circle_04.png",
+      "filename": "circle_04.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_04.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_04.png"
+      ],
+      "tags": [
+        "光环",
+        "circle",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 59557,
+      "sha256": "742da1a1b96b93ae446700f6085385d1f62844352da870c89427307b7b7cf03b",
+      "preview": "free-assets/previews/particle-circle-4.png"
+    },
+    {
+      "id": "particle-circle-5",
+      "name": "光环 05",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_05.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/circle_05.png",
+      "filename": "circle_05.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_05.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/circle_05.png"
+      ],
+      "tags": [
+        "光环",
+        "circle",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 65336,
+      "sha256": "925b8ac284436f74f9cadf0ecd058da1c08fba65c098e4e34fd220603022f02e",
+      "preview": "free-assets/previews/particle-circle-5.png"
+    },
+    {
+      "id": "particle-star-1",
+      "name": "星芒 01",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_01.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/star_01.png",
+      "filename": "star_01.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_01.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_01.png"
+      ],
+      "tags": [
+        "星芒",
+        "star",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 42118,
+      "sha256": "3ba3999c944a0767677449412d306c1f230daa1743b31f929533cf77a22ecf5d",
+      "preview": "free-assets/previews/particle-star-1.png"
+    },
+    {
+      "id": "particle-star-2",
+      "name": "星芒 02",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_02.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/star_02.png",
+      "filename": "star_02.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_02.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_02.png"
+      ],
+      "tags": [
+        "星芒",
+        "star",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 49897,
+      "sha256": "a0b7624a2e6f6825a3e93ddec685728c4d3de03b77bbf2a2e425b7a6d3d0215b",
+      "preview": "free-assets/previews/particle-star-2.png"
+    },
+    {
+      "id": "particle-star-3",
+      "name": "星芒 03",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_03.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/star_03.png",
+      "filename": "star_03.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_03.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_03.png"
+      ],
+      "tags": [
+        "星芒",
+        "star",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 56622,
+      "sha256": "dac75aa35e5191de1917ec076d47f3b43a47b80d9aae6eefffb920c5ceba3601",
+      "preview": "free-assets/previews/particle-star-3.png"
+    },
+    {
+      "id": "particle-star-4",
+      "name": "星芒 04",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_04.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/star_04.png",
+      "filename": "star_04.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_04.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/star_04.png"
+      ],
+      "tags": [
+        "星芒",
+        "star",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 30613,
+      "sha256": "6485ac16c773663bd39346f3bedae04465ac14c661eb47cc5cfa935cdbf6c2ec",
+      "preview": "free-assets/previews/particle-star-4.png"
+    },
+    {
+      "id": "particle-spark-1",
+      "name": "火花 01",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_01.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/spark_01.png",
+      "filename": "spark_01.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_01.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_01.png"
+      ],
+      "tags": [
+        "火花",
+        "spark",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 95070,
+      "sha256": "5902da3a324cad0a4b5a88ce1e3c9cc18fee50922c358ce93d8c9f1ad7708f0a",
+      "preview": "free-assets/previews/particle-spark-1.png"
+    },
+    {
+      "id": "particle-spark-2",
+      "name": "火花 02",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_02.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/spark_02.png",
+      "filename": "spark_02.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_02.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_02.png"
+      ],
+      "tags": [
+        "火花",
+        "spark",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 101613,
+      "sha256": "f7c5f1f849657eed79fd7b663be5a57829450a1e4fdc4a062049a05b9a406e89",
+      "preview": "free-assets/previews/particle-spark-2.png"
+    },
+    {
+      "id": "particle-spark-3",
+      "name": "火花 03",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_03.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/spark_03.png",
+      "filename": "spark_03.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_03.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_03.png"
+      ],
+      "tags": [
+        "火花",
+        "spark",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 79574,
+      "sha256": "90f322bebe5facea2f60afe88d98dd80a21479ed3212e605d61e88a896f3e1db",
+      "preview": "free-assets/previews/particle-spark-3.png"
+    },
+    {
+      "id": "particle-spark-4",
+      "name": "火花 04",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_04.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/spark_04.png",
+      "filename": "spark_04.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_04.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/spark_04.png"
+      ],
+      "tags": [
+        "火花",
+        "spark",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 83811,
+      "sha256": "3cba35b80a97c12283a8ecd41780a0412194de14562cbffc7f04e9157183f772",
+      "preview": "free-assets/previews/particle-spark-4.png"
+    },
+    {
+      "id": "particle-smoke-1",
+      "name": "烟雾 01",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_01.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/smoke_01.png",
+      "filename": "smoke_01.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_01.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_01.png"
+      ],
+      "tags": [
+        "烟雾",
+        "smoke",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 97452,
+      "sha256": "e8724c219e8d35859167fc0a7e207e13c72ccf0c29704909b9bb3d3dc71c6cf7",
+      "preview": "free-assets/previews/particle-smoke-1.png"
+    },
+    {
+      "id": "particle-smoke-2",
+      "name": "烟雾 02",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_02.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/smoke_02.png",
+      "filename": "smoke_02.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_02.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_02.png"
+      ],
+      "tags": [
+        "烟雾",
+        "smoke",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 96825,
+      "sha256": "c405cc0ceb31a239dfd873fffdfdfe3ff2056eebd5fcc77dfba1d9fdfed585c7",
+      "preview": "free-assets/previews/particle-smoke-2.png"
+    },
+    {
+      "id": "particle-smoke-3",
+      "name": "烟雾 03",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_03.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/smoke_03.png",
+      "filename": "smoke_03.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_03.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_03.png"
+      ],
+      "tags": [
+        "烟雾",
+        "smoke",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 39737,
+      "sha256": "a71f8abcac64f8d73a94625cc9a10033dbeafa7eaea750560cba0daa73fe8752",
+      "preview": "free-assets/previews/particle-smoke-3.png"
+    },
+    {
+      "id": "particle-smoke-4",
+      "name": "烟雾 04",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_04.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/smoke_04.png",
+      "filename": "smoke_04.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_04.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/smoke_04.png"
+      ],
+      "tags": [
+        "烟雾",
+        "smoke",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 97568,
+      "sha256": "2db2f69874cdb1e5203f2f86803d5debde30402590cf50a810afaba882184616",
+      "preview": "free-assets/previews/particle-smoke-4.png"
+    },
+    {
+      "id": "particle-light-1",
+      "name": "光晕 01",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/light_01.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/light_01.png",
+      "filename": "light_01.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/light_01.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/light_01.png"
+      ],
+      "tags": [
+        "光晕",
+        "light",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 93470,
+      "sha256": "caedcc5df5bcac4470244d2520d6a64b45b20c1ccf4d918da516c55e3fa365a6",
+      "preview": "free-assets/previews/particle-light-1.png"
+    },
+    {
+      "id": "particle-light-2",
+      "name": "光晕 02",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/light_02.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/light_02.png",
+      "filename": "light_02.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/light_02.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/light_02.png"
+      ],
+      "tags": [
+        "光晕",
+        "light",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 93415,
+      "sha256": "f1bdb57478703fec539f7b8eeceb494c4a23664652b296389f310104be80cfe0",
+      "preview": "free-assets/previews/particle-light-2.png"
+    },
+    {
+      "id": "particle-light-3",
+      "name": "光晕 03",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/light_03.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/light_03.png",
+      "filename": "light_03.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/light_03.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/light_03.png"
+      ],
+      "tags": [
+        "光晕",
+        "light",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 100114,
+      "sha256": "b68627734d08aab3eaf3f94718521553628c75aace1de6c74de28501c1a4c147",
+      "preview": "free-assets/previews/particle-light-3.png"
+    },
+    {
+      "id": "particle-magic-1",
+      "name": "魔法 01",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_01.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/magic_01.png",
+      "filename": "magic_01.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_01.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_01.png"
+      ],
+      "tags": [
+        "魔法",
+        "magic",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 81687,
+      "sha256": "398479ea280c8161d0b6d509ca97eefb27e989c7832b404abcb65faae3e922ff",
+      "preview": "free-assets/previews/particle-magic-1.png"
+    },
+    {
+      "id": "particle-magic-2",
+      "name": "魔法 02",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_02.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/magic_02.png",
+      "filename": "magic_02.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_02.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_02.png"
+      ],
+      "tags": [
+        "魔法",
+        "magic",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 86500,
+      "sha256": "6443e90834abcae4c3848d7ebca99ff0d9fcad19a07f49f77ad64710a3e39b36",
+      "preview": "free-assets/previews/particle-magic-2.png"
+    },
+    {
+      "id": "particle-magic-3",
+      "name": "魔法 03",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_03.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/magic_03.png",
+      "filename": "magic_03.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_03.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_03.png"
+      ],
+      "tags": [
+        "魔法",
+        "magic",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 58093,
+      "sha256": "c2ef5fe86cd2fd08e5b9768389ab6580b346c391db3c7c09fc9b0a63e00ec4ce",
+      "preview": "free-assets/previews/particle-magic-3.png"
+    },
+    {
+      "id": "particle-magic-4",
+      "name": "魔法 04",
+      "category": "effect",
+      "kind": "image",
+      "author": "Kenney Vleugels",
+      "license": "CC0-1.0",
+      "licenseFile": "kenney-CC0.txt",
+      "source": "https://github.com/ETdoFresh/kenney.nl/blob/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_04.png",
+      "repository": "https://github.com/ETdoFresh/kenney.nl",
+      "commit": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+      "sourcePath": "particlePack_1.1/PNG (Transparent)/magic_04.png",
+      "filename": "magic_04.png",
+      "urls": [
+        "https://raw.githubusercontent.com/ETdoFresh/kenney.nl/45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_04.png",
+        "https://cdn.jsdelivr.net/gh/ETdoFresh/kenney.nl@45df48c4d45f8716216b1a9e22df0b69cd9f5932/particlePack_1.1/PNG%20%28Transparent%29/magic_04.png"
+      ],
+      "tags": [
+        "魔法",
+        "magic",
+        "粒子",
+        "透明叠加"
+      ],
+      "description": "透明粒子图片，适合强调、装饰和画面叠加；此项为静态素材。",
+      "defaults": {
+        "opacity": 0.85,
+        "scale": 0.4,
+        "position": "center"
+      },
+      "size": 50082,
+      "sha256": "8255a4a3bd9209a0d3a45f0636524ff0d2953adc7d6819041703107379ab63ba",
+      "preview": "free-assets/previews/particle-magic-4.png"
+    },
+    {
+      "id": "look-clean-commercial",
+      "name": "清透商业",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.clean-commercial.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.clean-commercial.cube",
+      "filename": "look.clean-commercial.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.clean-commercial.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.clean-commercial.cube"
+      ],
+      "tags": [
+        "清透商业",
+        "clean-commercial",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132742,
+      "sha256": "37402cc18c1c336e7177753e4056885352878896e264a5a05f3a2658a883e3e3",
+      "preview": "free-assets/previews/look-clean-commercial.png"
+    },
+    {
+      "id": "look-food-warm",
+      "name": "暖调美食",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.food-warm.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.food-warm.cube",
+      "filename": "look.food-warm.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.food-warm.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.food-warm.cube"
+      ],
+      "tags": [
+        "暖调美食",
+        "food-warm",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132735,
+      "sha256": "a3fce95c0999c33d90c4acfff0e1d088f408cf771bf680a952c5b7c724e343d5",
+      "preview": "free-assets/previews/look-food-warm.png"
+    },
+    {
+      "id": "look-golden-hour",
+      "name": "日落金光",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.golden-hour.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.golden-hour.cube",
+      "filename": "look.golden-hour.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.golden-hour.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.golden-hour.cube"
+      ],
+      "tags": [
+        "日落金光",
+        "golden-hour",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132737,
+      "sha256": "685a26e68a605294ef9a0cf52fd39711b80ccc0a003cf171b3ee822b45248a9f",
+      "preview": "free-assets/previews/look-golden-hour.png"
+    },
+    {
+      "id": "look-teal-orange",
+      "name": "电影青橙",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.teal-orange.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.teal-orange.cube",
+      "filename": "look.teal-orange.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.teal-orange.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.teal-orange.cube"
+      ],
+      "tags": [
+        "电影青橙",
+        "teal-orange",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132737,
+      "sha256": "25c7e06262dcef1e4f10a74d7d884a25835354cfeeba071ffbdcca61915a14c3",
+      "preview": "free-assets/previews/look-teal-orange.png"
+    },
+    {
+      "id": "look-teal-orange-soft",
+      "name": "柔和青橙",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.teal-orange-soft.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.teal-orange-soft.cube",
+      "filename": "look.teal-orange-soft.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.teal-orange-soft.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.teal-orange-soft.cube"
+      ],
+      "tags": [
+        "柔和青橙",
+        "teal-orange-soft",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132742,
+      "sha256": "fa175dac04664f0029a066682ee4e7d244d31ad27d59320a2a598e660e9958c7",
+      "preview": "free-assets/previews/look-teal-orange-soft.png"
+    },
+    {
+      "id": "look-pastel",
+      "name": "低饱和马卡龙",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.pastel.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.pastel.cube",
+      "filename": "look.pastel.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.pastel.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.pastel.cube"
+      ],
+      "tags": [
+        "低饱和马卡龙",
+        "pastel",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132732,
+      "sha256": "63c594982b30282d24f3a99b3ba6e3434bdb7f35d7b915ee5f57cdd6b33657da",
+      "preview": "free-assets/previews/look-pastel.png"
+    },
+    {
+      "id": "look-vivid-pop",
+      "name": "鲜艳活力",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.vivid-pop.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.vivid-pop.cube",
+      "filename": "look.vivid-pop.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.vivid-pop.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.vivid-pop.cube"
+      ],
+      "tags": [
+        "鲜艳活力",
+        "vivid-pop",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132735,
+      "sha256": "bd25625a61e74dbd2637c67c4e165fb2d5c66a929823de9613caa2ec9ae743cb",
+      "preview": "free-assets/previews/look-vivid-pop.png"
+    },
+    {
+      "id": "look-faded-film",
+      "name": "复古胶片",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.faded-film.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.faded-film.cube",
+      "filename": "look.faded-film.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.faded-film.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.faded-film.cube"
+      ],
+      "tags": [
+        "复古胶片",
+        "faded-film",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132736,
+      "sha256": "c48ad036a6f2ff3833afd747b0eaba3127868d039c8679a0f3e915acda773d59",
+      "preview": "free-assets/previews/look-faded-film.png"
+    },
+    {
+      "id": "look-faded-90s",
+      "name": "九十年代",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.faded-90s.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.faded-90s.cube",
+      "filename": "look.faded-90s.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.faded-90s.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.faded-90s.cube"
+      ],
+      "tags": [
+        "九十年代",
+        "faded-90s",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132735,
+      "sha256": "93d3301a56c1b5af74dd7f14753ea79cf8f3d02f940f01343f9f1d0818ecbbc6",
+      "preview": "free-assets/previews/look-faded-90s.png"
+    },
+    {
+      "id": "look-matte-warm",
+      "name": "暖调哑光",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.matte-warm.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.matte-warm.cube",
+      "filename": "look.matte-warm.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.matte-warm.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.matte-warm.cube"
+      ],
+      "tags": [
+        "暖调哑光",
+        "matte-warm",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132736,
+      "sha256": "18e8f853420a8a59d33c3e91479a326e06f94f7a12d068a23b5512f187889c73",
+      "preview": "free-assets/previews/look-matte-warm.png"
+    },
+    {
+      "id": "look-matte-cool",
+      "name": "冷调哑光",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.matte-cool.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.matte-cool.cube",
+      "filename": "look.matte-cool.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.matte-cool.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.matte-cool.cube"
+      ],
+      "tags": [
+        "冷调哑光",
+        "matte-cool",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132736,
+      "sha256": "76e65ff13cd6dce40684b820046e3842c8fb6524800eb4f67ee84c7bb2aa4ea0",
+      "preview": "free-assets/previews/look-matte-cool.png"
+    },
+    {
+      "id": "look-neon-night",
+      "name": "霓虹夜景",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.neon-night.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.neon-night.cube",
+      "filename": "look.neon-night.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.neon-night.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.neon-night.cube"
+      ],
+      "tags": [
+        "霓虹夜景",
+        "neon-night",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132736,
+      "sha256": "b83160b68441946f181ce5c40ddd7147c10dc69b2d2c94d7cd62fa03d362f43c",
+      "preview": "free-assets/previews/look-neon-night.png"
+    },
+    {
+      "id": "look-blue-hour",
+      "name": "蓝调时刻",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.blue-hour.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.blue-hour.cube",
+      "filename": "look.blue-hour.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.blue-hour.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.blue-hour.cube"
+      ],
+      "tags": [
+        "蓝调时刻",
+        "blue-hour",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132735,
+      "sha256": "5e44364d290ec5a0118ecf0ae09da968a0bf0884776537070bdcf60ead5f482f",
+      "preview": "free-assets/previews/look-blue-hour.png"
+    },
+    {
+      "id": "look-bw-neutral",
+      "name": "经典黑白",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.bw-neutral.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.bw-neutral.cube",
+      "filename": "look.bw-neutral.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.bw-neutral.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.bw-neutral.cube"
+      ],
+      "tags": [
+        "经典黑白",
+        "bw-neutral",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132736,
+      "sha256": "ea357e19d028cce1e71531ad56024d10527d00c67a6c9c28fe2aa0e451b3ccc4",
+      "preview": "free-assets/previews/look-bw-neutral.png"
+    },
+    {
+      "id": "look-sepia",
+      "name": "怀旧棕褐",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.sepia.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.sepia.cube",
+      "filename": "look.sepia.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.sepia.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.sepia.cube"
+      ],
+      "tags": [
+        "怀旧棕褐",
+        "sepia",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132731,
+      "sha256": "dae101176b7c2f5c43aaf7fe5e78aeaa0844ca2ff393b4d799545b9f5019e095",
+      "preview": "free-assets/previews/look-sepia.png"
+    },
+    {
+      "id": "look-lofi-polaroid",
+      "name": "拍立得质感",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.lofi-polaroid.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.lofi-polaroid.cube",
+      "filename": "look.lofi-polaroid.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.lofi-polaroid.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.lofi-polaroid.cube"
+      ],
+      "tags": [
+        "拍立得质感",
+        "lofi-polaroid",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132739,
+      "sha256": "9e88713949a0c46874c9c69aacaa5e18fd02976941b4f60ae48f5717ed8b4d7a",
+      "preview": "free-assets/previews/look-lofi-polaroid.png"
+    },
+    {
+      "id": "look-dream-glow",
+      "name": "梦幻柔光",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.dream-glow.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.dream-glow.cube",
+      "filename": "look.dream-glow.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.dream-glow.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.dream-glow.cube"
+      ],
+      "tags": [
+        "梦幻柔光",
+        "dream-glow",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132736,
+      "sha256": "ddd3236b18d5f1a0ccf8c1fab36cc8d9216105e1f42f03e3d44a2bfabc3478a5",
+      "preview": "free-assets/previews/look-dream-glow.png"
+    },
+    {
+      "id": "look-muted-earth",
+      "name": "大地质感",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.muted-earth.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.muted-earth.cube",
+      "filename": "look.muted-earth.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.muted-earth.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.muted-earth.cube"
+      ],
+      "tags": [
+        "大地质感",
+        "muted-earth",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132737,
+      "sha256": "33654c2511aaab7ba4dee3e61b0a1c2b37e24a3f078e7542efcb68281de602d8",
+      "preview": "free-assets/previews/look-muted-earth.png"
+    },
+    {
+      "id": "look-film-documentary",
+      "name": "纪实电影",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.film-documentary.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.film-documentary.cube",
+      "filename": "look.film-documentary.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.film-documentary.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.film-documentary.cube"
+      ],
+      "tags": [
+        "纪实电影",
+        "film-documentary",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132742,
+      "sha256": "d5348afd864b579bc079dc30958d39d1d9e84623d2b3a7293bb3d70ed1e7477f",
+      "preview": "free-assets/previews/look-film-documentary.png"
+    },
+    {
+      "id": "look-high-key-beauty",
+      "name": "明亮美妆",
+      "category": "template",
+      "kind": "lut",
+      "author": "ANVE",
+      "license": "CC0-1.0",
+      "licenseFile": "motion-CC0.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.high-key-beauty.cube",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "layers/looks/look.high-key-beauty.cube",
+      "filename": "look.high-key-beauty.cube",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.high-key-beauty.cube",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/layers/looks/look.high-key-beauty.cube"
+      ],
+      "tags": [
+        "明亮美妆",
+        "high-key-beauty",
+        "调色",
+        "LUT",
+        "模板"
+      ],
+      "description": "3D CUBE 调色模板，支持调节强度及作用时间。",
+      "defaults": {
+        "lutStrength": 0.85
+      },
+      "size": 132741,
+      "sha256": "f6b2c196b5ef68a2c539d8c17a43d4b64c0b060b383eadd432b5d73facc02796",
+      "preview": "free-assets/previews/look-high-key-beauty.png"
+    },
+    {
+      "id": "transition-fade-quick",
+      "name": "淡入淡出 · 轻快",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "淡入淡出",
+        "fade",
+        "转场",
+        "轻快"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.3 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-fade",
+        "type": "fade",
+        "duration": 0.3
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-fade-quick.mp4"
+    },
+    {
+      "id": "transition-fade-soft",
+      "name": "淡入淡出 · 舒缓",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "淡入淡出",
+        "fade",
+        "转场",
+        "舒缓"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.7 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-fade",
+        "type": "fade",
+        "duration": 0.7
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-fade-soft.mp4"
+    },
+    {
+      "id": "transition-dissolve-quick",
+      "name": "粒子溶解 · 轻快",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "粒子溶解",
+        "dissolve",
+        "转场",
+        "轻快"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.3 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-dissolve",
+        "type": "dissolve",
+        "duration": 0.3
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-dissolve-quick.mp4"
+    },
+    {
+      "id": "transition-dissolve-soft",
+      "name": "粒子溶解 · 舒缓",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "粒子溶解",
+        "dissolve",
+        "转场",
+        "舒缓"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.7 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-dissolve",
+        "type": "dissolve",
+        "duration": 0.7
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-dissolve-soft.mp4"
+    },
+    {
+      "id": "transition-wipeleft-quick",
+      "name": "向左擦除 · 轻快",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "向左擦除",
+        "wipeleft",
+        "转场",
+        "轻快"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.3 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-wipeleft",
+        "type": "wipeleft",
+        "duration": 0.3
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-wipeleft-quick.mp4"
+    },
+    {
+      "id": "transition-wipeleft-soft",
+      "name": "向左擦除 · 舒缓",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "向左擦除",
+        "wipeleft",
+        "转场",
+        "舒缓"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.7 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-wipeleft",
+        "type": "wipeleft",
+        "duration": 0.7
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-wipeleft-soft.mp4"
+    },
+    {
+      "id": "transition-wiperight-quick",
+      "name": "向右擦除 · 轻快",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "向右擦除",
+        "wiperight",
+        "转场",
+        "轻快"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.3 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-wiperight",
+        "type": "wiperight",
+        "duration": 0.3
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-wiperight-quick.mp4"
+    },
+    {
+      "id": "transition-wiperight-soft",
+      "name": "向右擦除 · 舒缓",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "向右擦除",
+        "wiperight",
+        "转场",
+        "舒缓"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.7 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-wiperight",
+        "type": "wiperight",
+        "duration": 0.7
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-wiperight-soft.mp4"
+    },
+    {
+      "id": "transition-slideleft-quick",
+      "name": "向左滑动 · 轻快",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "向左滑动",
+        "slideleft",
+        "转场",
+        "轻快"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.3 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-slideleft",
+        "type": "slideleft",
+        "duration": 0.3
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-slideleft-quick.mp4"
+    },
+    {
+      "id": "transition-slideleft-soft",
+      "name": "向左滑动 · 舒缓",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "向左滑动",
+        "slideleft",
+        "转场",
+        "舒缓"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.7 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-slideleft",
+        "type": "slideleft",
+        "duration": 0.7
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-slideleft-soft.mp4"
+    },
+    {
+      "id": "transition-slideright-quick",
+      "name": "向右滑动 · 轻快",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "向右滑动",
+        "slideright",
+        "转场",
+        "轻快"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.3 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-slideright",
+        "type": "slideright",
+        "duration": 0.3
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-slideright-quick.mp4"
+    },
+    {
+      "id": "transition-slideright-soft",
+      "name": "向右滑动 · 舒缓",
+      "category": "transition",
+      "kind": "transition",
+      "author": "ANVE",
+      "license": "MIT",
+      "licenseFile": "motion-MIT.txt",
+      "source": "https://github.com/ANVEAI/motion-pack/blob/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+      "repository": "https://github.com/ANVEAI/motion-pack",
+      "commit": "18b1be8c2a9030df5ff0360776bb385a437a6f53",
+      "sourcePath": "transitions/aliases.json",
+      "filename": "aliases.json",
+      "urls": [
+        "https://raw.githubusercontent.com/ANVEAI/motion-pack/18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json",
+        "https://cdn.jsdelivr.net/gh/ANVEAI/motion-pack@18b1be8c2a9030df5ff0360776bb385a437a6f53/transitions/aliases.json"
+      ],
+      "tags": [
+        "向右滑动",
+        "slideright",
+        "转场",
+        "舒缓"
+      ],
+      "description": "原生 FFmpeg 适配模板，片段接缝重叠 0.7 秒；短片段会自动缩短。",
+      "recipe": {
+        "alias": "xfade-slideright",
+        "type": "slideright",
+        "duration": 0.7
+      },
+      "size": 21594,
+      "sha256": "e33317330fc0dac6ab7242d443d4f8b4d77604228d5d0f1d2ee70f85e8361a00",
+      "preview": "free-assets/previews/transition-slideright-soft.mp4"
+    }
+  ],
+  "notice": "素材按需下载到本机。保留作者及许可证；不包含付费模板或可执行插件。"
+}

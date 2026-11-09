@@ -1,0 +1,149 @@
+.app-update-host { display: inline-flex; position: relative; align-items: center; gap: 8px; }
+.app-release-announcement {
+  display: inline-flex;
+  align-items: center;
+  min-width: 0;
+  max-width: min(580px, 44vw);
+  height: 32px;
+  padding: 0 12px;
+  overflow: hidden;
+  border: 1px solid rgba(66, 211, 255, .2);
+  border-radius: 999px;
+  color: var(--color-text-secondary, #64748b);
+  background: linear-gradient(110deg, rgba(22, 117, 156, .1), rgba(16, 35, 64, .14));
+  font-size: 12px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.app-release-announcement::before {
+  content: "公告 · ";
+  flex: 0 0 auto;
+  color: #55cfe0;
+  font: 10px/1.2 Consolas, monospace;
+  letter-spacing: .08em;
+}
+.app-release-announcement[hidden] { display: none; }
+.app-update-trigger {
+  display: inline-flex; align-items: center; gap: 8px; height: 34px;
+  padding: 0 12px; border: 1px solid var(--color-border, #334155);
+  border-radius: var(--ui-control-radius, 8px); cursor: pointer;
+  background: var(--color-card, #ffffff); color: var(--color-text, #0f172a);
+  font: inherit; font-size: 13px;
+}
+.app-update-trigger:hover { border-color: var(--color-primary, #3f65d8); }
+.app-update-mark {
+  width: 9px; height: 9px; border-radius: 50%;
+  background: var(--color-primary, #3f65d8); box-shadow: 0 0 0 3px var(--color-primary-soft, transparent);
+}
+.app-update-badge {
+  min-width: 7px; height: 7px; border-radius: 50%;
+  background: #ef4444; box-shadow: 0 0 0 2px var(--color-card, #fff);
+}
+.app-update-backdrop {
+  position: fixed; inset: 0; z-index: 1200;
+  background: rgba(2, 6, 23, .48);
+}
+.app-update-dialog {
+  position: fixed; z-index: 1201; left: 50%; top: 50%;
+  transform: translate(-50%, -50%); width: min(460px, calc(100vw - 32px));
+  max-height: min(78vh, 720px); overflow: auto;
+  background: var(--color-card, #fff); color: var(--color-text, #0f172a);
+  border: 1px solid var(--color-border, #334155); border-radius: var(--ui-radius, 14px);
+  box-shadow: var(--shadow, 0 20px 60px rgba(2, 6, 23, .4));
+}
+.app-update-dialog::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 22px;
+  right: 22px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-primary, #3f65d8), transparent);
+  opacity: .6;
+  pointer-events: none;
+}
+.app-update-head {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 16px 20px 12px; border-bottom: 1px solid var(--color-border, #e2e8f0);
+}
+.app-update-head strong { font-size: 16px; }
+.app-update-close {
+  border: 0; background: transparent; color: var(--color-text-secondary, #64748b);
+  font-size: 20px; line-height: 1; cursor: pointer; padding: 4px 8px; border-radius: 6px;
+}
+.app-update-close:hover { background: var(--color-primary-soft, #eef2ff); }
+.app-update-versions {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 14px 20px;
+  border-bottom: 1px solid var(--color-border, #e2e8f0);
+}
+.app-update-versions div { display: flex; flex-direction: column; gap: 3px; }
+.app-update-versions span { font-size: 12px; color: var(--color-text-secondary, #64748b); }
+.app-update-versions b { font-size: 15px; word-break: break-all; }
+.app-update-body { padding: 14px 20px; display: grid; gap: 10px; }
+.app-update-line { margin: 0; font-size: 14px; line-height: 1.7; }
+.app-update-line.ok { color: #16a34a; }
+.app-update-line.ready { color: var(--color-primary, #3f65d8); }
+.app-update-line.error { color: #dc2626; }
+.app-update-line.muted { color: var(--color-text-secondary, #64748b); }
+.app-update-notes { display: grid; gap: 6px; }
+.app-update-notes strong { font-size: 13px; color: var(--color-text-secondary, #64748b); }
+.app-update-notes div {
+  white-space: pre-wrap; max-height: 22vh; overflow: auto; font-size: 13px;
+  line-height: 1.75; padding: 10px 12px; border: 1px solid var(--color-border, #e2e8f0);
+  border-radius: 8px;
+}
+.app-update-progress { display: flex; align-items: center; gap: 10px; }
+.app-update-progress progress { flex: 1; height: 8px; }
+.app-update-progress span { font-size: 12px; color: var(--color-text-secondary, #64748b); min-width: 34px; }
+.app-update-actions {
+  display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-end;
+  padding: 4px 20px 16px;
+}
+.app-update-actions button {
+  min-height: 34px; padding: 0 14px; border: 1px solid var(--color-border, #334155);
+  border-radius: var(--ui-control-radius, 8px); background: var(--color-card, #fff);
+  color: var(--color-text, #0f172a); cursor: pointer; font: inherit; font-size: 13px;
+}
+.app-update-actions button:hover:not(:disabled) { border-color: var(--color-primary, #3f65d8); }
+.app-update-actions button.primary {
+  background: var(--color-primary, #3f65d8); border-color: var(--color-primary, #3f65d8); color: #fff;
+}
+.app-update-actions button:disabled { opacity: .55; cursor: not-allowed; }
+.app-update-settings { border-top: 1px solid var(--color-border, #e2e8f0); padding: 12px 20px 16px; }
+.app-update-settings summary {
+  cursor: pointer; font-size: 13px; color: var(--color-text-secondary, #64748b); user-select: none;
+}
+.app-update-settings[open] summary { margin-bottom: 10px; }
+.app-update-field { display: grid; gap: 5px; margin-bottom: 10px; }
+.app-update-field[hidden] { display: none !important; }
+.app-update-field span { font-size: 12px; color: var(--color-text-secondary, #64748b); }
+.app-update-field input {
+  min-height: 34px; padding: 0 10px; border: 1px solid var(--color-border, #334155);
+  border-radius: var(--ui-control-radius, 8px); background: var(--color-bg, #f8fafc);
+  color: var(--color-text, #0f172a); font: inherit; font-size: 13px;
+}
+.app-update-checkbox { display: flex; align-items: center; gap: 8px; font-size: 13px; margin-bottom: 10px; }
+.app-update-settings > button {
+  min-height: 32px; padding: 0 14px; border: 1px solid var(--color-border, #334155);
+  border-radius: var(--ui-control-radius, 8px); background: var(--color-card, #fff);
+  color: var(--color-text, #0f172a); cursor: pointer; font: inherit; font-size: 13px;
+}
+
+@media (max-width: 1100px) {
+  .app-release-announcement { max-width: 260px; }
+}
+
+@media (max-width: 850px) {
+  .app-release-announcement { display: none; }
+}
+
+/* The app shell applies CSS zoom. app-updates.js portals the dialog and
+   backdrop to document.body so they stay in viewport coordinates. */
+.app-update-host {
+  display: inline-flex;
+}
+.app-update-backdrop,
+.app-update-dialog {
+  position: fixed;
+  box-sizing: border-box;
+}
