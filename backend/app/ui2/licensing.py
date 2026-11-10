@@ -9,6 +9,7 @@ import os
 import secrets
 
 from app.ui2.common import BridgeError
+from public_account import AccountError, LocalAccountStore
 
 
 PUBLIC_ACTIONS = {
@@ -50,6 +51,7 @@ class LicenseActions:
         self.api = api
         self._active = False
         self._username = ""
+        self._account_store = LocalAccountStore()
 
     def _configured_account(self) -> tuple[str, str, str]:
         return (
@@ -68,6 +70,9 @@ class LicenseActions:
             "remaining": "不限" if active else "登录后可用",
             "expiration": "本地会话",
             "username": self._username if active else "",
+            "firstRun": not self._account_store.configured(),
+            "detail": "首次使用：输入自定账号和至少 8 位密码，点击登录即创建本地账号。"
+            if not self._account_store.configured() else "账号在本机验证，升级保留。",
         }
 
     def authorize(self, action: str) -> None:
@@ -83,16 +88,10 @@ class LicenseActions:
             raise BridgeError("INVALID_CREDENTIALS", "账号或密码错误")
         username = str(data.get("username", "")).strip()
         password = str(data.get("password", ""))
-        configured_user, password_hash, plaintext = self._configured_account()
-        if not configured_user or not (password_hash or plaintext):
-            raise BridgeError(
-                "ACCOUNT_NOT_CONFIGURED",
-                "本地管理员账号尚未配置。请设置 YJJ_ADMIN_USER 和密码哈希后重启。",
-            )
-        user_ok = hmac.compare_digest(username, configured_user)
-        password_ok = _password_matches(password, password_hash, plaintext)
-        if not (user_ok and password_ok):
-            raise BridgeError("INVALID_CREDENTIALS", "账号或密码错误")
+        try:
+            configured_user = self._account_store.authenticate(username, password)
+        except AccountError as error:
+            raise BridgeError(error.code, str(error)) from error
         self._active = True
         self._username = configured_user
         state = self.state()

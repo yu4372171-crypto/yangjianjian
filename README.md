@@ -2,6 +2,9 @@
 
 羊剪剪是一款面向短视频创作者的 Windows 智能剪辑工作台。它把自然语言需求、素材管理、字幕、视觉审核、时间线编辑、批量任务和应用内更新放在同一个桌面应用中。
 
+Windows 用户请前往 [版本与安装包下载](https://github.com/yu4372171-crypto/yangjianjian/releases/latest)，
+选择安装版或解压即用的便携版。适用 Windows 10/11 x64，AI 模型首次使用时按需下载。
+
 本仓库是羊剪剪的公开源码版本，采用 MIT License。安装包、AI 模型、FFmpeg 运行时、顾客项目和云端服务凭据不进入 Git 仓库，由构建脚本或 GitHub Releases 单独提供。
 
 当前仓库包含可运行的桌面外壳、视频后端和已构建的 Web UI。原始 Vue 工程与部分云端服务的运行凭据不在可恢复源码中；具体边界见
@@ -56,8 +59,12 @@ python -m venv .venv
 
 ## 首次运行与账号
 
-公开源码不内置固定账号或密码。创建本地管理员时只保存 PBKDF2-SHA256
-密码哈希：
+公开发行版和源码均不内置固定账号或密码。未配置管理员时，首次填写自定账号和
+至少 8 位密码，点击登录即创建本机账号；以后使用同一账号登录。
+账号只在本机验证，保存于当前用户的 `%LOCALAPPDATA%\YangJianJian\public\account.json`，
+只保存随机盐和 PBKDF2-SHA256 密码哈希，升级与卸载保留该用户目录。
+
+开发者或受管部署也可预先配置本地管理员：
 
 ```powershell
 .\scripts\New-LocalAccount.ps1 -Username local-owner

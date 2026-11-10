@@ -284,13 +284,13 @@ t.license=c;window.dispatchEvent(new CustomEvent("yangjianjian:logout"));p.value
 }catch{o.value="退出登录失败，请重试。"}finally{s.value=!1}
 }
 return(c,u)=>(O(),D("section",{class:"license-panel panel",style:{width:"100%",maxWidth:"420px",margin:"0 auto",boxSizing:"border-box"}},[
-b("h2",null,a()?"账号状态":"账号登录",1),
+b("h2",null,a()?"账号状态":t.license?.firstRun?"创建本地账号":"账号登录",1),
 a()?(O(),D("div",{key:0},[
 b("p",null,"已登录账号："+q(t.license.username),1),
 b("p",{class:"field-help"},"退出登录会取消正在运行的任务。"),
 b("button",{type:"button",disabled:s.value,onClick:i},s.value?"退出中…":"退出登录",9,["disabled"])
 ])):(O(),D("form",{key:1,onSubmit:l=>{l.preventDefault();return r()},"aria-busy":s.value,style:{display:"grid",gap:"16px"}},[
-b("p",{class:"field-help",style:{margin:"0"}},"登录后进入工作台"),
+b("p",{class:"field-help",style:{margin:"0"}},t.license?.firstRun?"首次使用：填写自定账号和至少8位密码，点击登录即创建本机账号，以后使用同一账号登录":"登录后进入工作台"),
 b("div",{class:"field"},[
 b("label",{for:"account-login-username"},"账号"),
 b("input",{id:"account-login-username",name:"username",type:"text",autocomplete:"username",autocapitalize:"none",spellcheck:!1,required:!0,value:n.value,disabled:s.value,onInput:l=>n.value=l.target.value},null,40,["value","disabled"])
@@ -299,7 +299,7 @@ b("div",{class:"field"},[
 b("label",{for:"account-login-password"},"密码"),
 b("input",{id:"account-login-password",name:"password",type:"password",autocomplete:"current-password",required:!0,value:p.value,disabled:s.value,onInput:l=>p.value=l.target.value},null,40,["value","disabled"])
 ]),
-b("button",{class:"primary",type:"submit",disabled:s.value||!n.value.trim()||!p.value,style:{width:"100%"}},s.value?"登录中…":"登录",9,["disabled"])
+b("button",{class:"primary",type:"submit",disabled:s.value||!n.value.trim()||!p.value,style:{width:"100%"}},s.value?"登录中…":t.license?.firstRun?"创建并登录":"登录",9,["disabled"])
 ],40,["aria-busy"])),
 o.value?(O(),D("p",{key:2,class:"error-text",role:"alert","aria-live":"polite"},q(o.value),1)):Z("",!0)
 ]))

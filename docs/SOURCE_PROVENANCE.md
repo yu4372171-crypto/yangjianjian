@@ -8,3 +8,11 @@ This repository was assembled from the maintainers' installed YangJianJian build
 - Installation binaries, customer projects, model weights, runtime downloads, local settings, credentials and logs were excluded.
 
 The maintainers confirmed authorization to modify and open source this application.
+
+The Windows compatibility assets in release `v2026.10.27.1` package the maintainers'
+existing desktop runtime. They are not represented as a byte-for-byte rebuild
+of this recovered source tree. Before distribution,
+`scripts/repack-public-account.py` removes the legacy publisher username,
+salt and password digest and connects the runtime to `backend/public_account.py`.
+The public account implementation is shared with the source build. Installers
+and portable archives retain their third-party runtime notices and licenses.
