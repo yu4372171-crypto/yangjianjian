@@ -438,7 +438,10 @@ class UpdateService:
             settings = {}
         if not isinstance(settings, dict):
             settings = {}
-        self.url = settings.get('manifestUrl', self.channel.get('manifestUrl', ''))
+        # Older public builds saved an empty source. It must not mask the
+        # publisher's newly configured channel after an upgrade. Auto-check
+        # remains a separate customer preference and is preserved below.
+        self.url = settings.get('manifestUrl') or self.channel.get('manifestUrl', '')
         self.auto_check = settings.get('autoCheck', True) is True
         try:
             if self.url != '':

@@ -1,5 +1,5 @@
 (() => {
-  const packedVersion = document.documentElement.dataset.runtimeVersion || '2026.10.27.1';
+  const packedVersion = document.documentElement.dataset.runtimeVersion || '2026.11.10.1';
   let release = null;
   const releaseReady = fetch('./app-release.json', { cache: 'no-store' })
     .then(response => {
